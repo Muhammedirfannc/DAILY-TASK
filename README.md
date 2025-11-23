@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4008-restore-finishing-order](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/4008-restore-finishing-order) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
