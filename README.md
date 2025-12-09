@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0141-linked-list-cycle) |
 | [4008-restore-finishing-order](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/4008-restore-finishing-order) |
 ## String
 |  |
@@ -23,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0141-linked-list-cycle) |
 ## Sorting
 |  |
 | ------- |
