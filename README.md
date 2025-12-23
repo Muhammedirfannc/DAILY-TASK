@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1929-concatenation-of-array](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/1929-concatenation-of-array) |
 | [4008-restore-finishing-order](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/4008-restore-finishing-order) |
 ## Hash Table
 |  |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0066-plus-one) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
