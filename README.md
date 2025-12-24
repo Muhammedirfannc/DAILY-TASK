@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1929-concatenation-of-array](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/1929-concatenation-of-array) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [4008-restore-finishing-order](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/4008-restore-finishing-order) |
 ## Hash Table
 |  |
