@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/1470-shuffle-the-array) |
 | [1920-build-array-from-permutation](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/1929-concatenation-of-array) |
+| [2942-find-words-containing-character](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/2942-find-words-containing-character) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3467-transform-array-by-parity](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/3467-transform-array-by-parity) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0709-to-lower-case) |
+| [2942-find-words-containing-character](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/2942-find-words-containing-character) |
 ## Stack
 |  |
 | ------- |
