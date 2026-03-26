@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0268-missing-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/1672-richest-customer-wealth) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/1863-sum-of-all-subset-xor-totals) |
