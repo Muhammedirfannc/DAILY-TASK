@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/2942-find-words-containing-character) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0344-reverse-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0268-missing-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/3467-transform-array-by-parity) |
 ## Dynamic Programming
 |  |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0268-missing-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
