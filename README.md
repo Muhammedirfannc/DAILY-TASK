@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/1929-concatenation-of-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0268-missing-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/3467-transform-array-by-parity) |
 ## Dynamic Programming
@@ -139,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/1672-richest-customer-wealth) |
+## Greedy
+|  |
+| ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Counting Sort
+|  |
+| ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
