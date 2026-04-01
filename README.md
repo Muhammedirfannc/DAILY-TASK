@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0268-missing-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/1672-richest-customer-wealth) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0268-missing-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [4008-restore-finishing-order](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/4008-restore-finishing-order) |
 ## String
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0268-missing-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/3467-transform-array-by-parity) |
@@ -148,5 +151,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
