@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/1929-concatenation-of-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/2942-find-words-containing-character) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0268-missing-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [4008-restore-finishing-order](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/4008-restore-finishing-order) |
 ## String
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0268-missing-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Backtracking
 |  |
 | ------- |
