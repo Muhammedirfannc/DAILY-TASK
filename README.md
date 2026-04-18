@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/1108-defanging-an-ip-address) |
 | [2942-find-words-containing-character](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/2942-find-words-containing-character) |
+| [3794-reverse-string-prefix](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/3794-reverse-string-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/0344-reverse-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3794-reverse-string-prefix](https://github.com/Muhammedirfannc/DAILY-TASK/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
 | ------- |
